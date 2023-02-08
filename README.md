@@ -5,3 +5,6 @@
 - Deberá facilitar un manejo del tiempo para grabar las transformaciones de las figuras. (mínimo 3 segundos)
 - El sistema deberá calcular las transformaciones intermedias de cada figura de un estado a otro en la grabación.
 - Debe ser capaz de tener play para reproducir las transformaciones de las figuras en los tiempos proporcionados generando una transición de los estados consiguiendo así el efecto de animación.
+
+
+![alt MASH-UP 2D Screenshot](https://github.com/Alex10liva/MASH-UP-2D/blob/main/bin/Debug/Mashup-2D-Screenshot.png)
